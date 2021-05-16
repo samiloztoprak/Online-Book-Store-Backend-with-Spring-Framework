@@ -5,3 +5,4 @@
 - Spring Framework
 - Hybernate
 - Postgresql
+- Swagger
